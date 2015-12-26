@@ -1,0 +1,305 @@
+<ui version="4.0" >
+ <class>optionCalcMWIN</class>
+ <widget class="QMainWindow" name="optionCalcMWIN" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>767</width>
+    <height>702</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Option Calculator</string>
+  </property>
+  <widget class="QWidget" name="centralwidget" >
+   <layout class="QVBoxLayout" >
+    <property name="spacing" >
+     <number>6</number>
+    </property>
+    <property name="leftMargin" >
+     <number>9</number>
+    </property>
+    <property name="topMargin" >
+     <number>9</number>
+    </property>
+    <property name="rightMargin" >
+     <number>9</number>
+    </property>
+    <property name="bottomMargin" >
+     <number>9</number>
+    </property>
+    <item>
+     <widget class="QGroupBox" name="groupBox" >
+      <property name="title" >
+       <string/>
+      </property>
+      <layout class="QVBoxLayout" >
+       <property name="spacing" >
+        <number>6</number>
+       </property>
+       <property name="leftMargin" >
+        <number>9</number>
+       </property>
+       <property name="topMargin" >
+        <number>9</number>
+       </property>
+       <property name="rightMargin" >
+        <number>9</number>
+       </property>
+       <property name="bottomMargin" >
+        <number>9</number>
+       </property>
+       <item>
+        <widget class="QLabel" name="label" >
+         <property name="text" >
+          <string>&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal; text-decoration:none;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:12pt; font-weight:600;">Swaptions/ED options position analysis&lt;/span>&lt;/p>&lt;/body>&lt;/html></string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" >
+         <property name="spacing" >
+          <number>6</number>
+         </property>
+         <property name="leftMargin" >
+          <number>0</number>
+         </property>
+         <property name="topMargin" >
+          <number>0</number>
+         </property>
+         <property name="rightMargin" >
+          <number>0</number>
+         </property>
+         <property name="bottomMargin" >
+          <number>0</number>
+         </property>
+         <item>
+          <widget class="QLabel" name="label_6" >
+           <property name="text" >
+            <string>Trade date:</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QDateEdit" name="dt_tradeDate" >
+           <property name="dateTime" >
+            <datetime>
+             <hour>0</hour>
+             <minute>0</minute>
+             <second>0</second>
+             <year>2000</year>
+             <month>5</month>
+             <day>1</day>
+            </datetime>
+           </property>
+           <property name="calendarPopup" >
+            <bool>true</bool>
+           </property>
+           <property name="date" >
+            <date>
+             <year>2000</year>
+             <month>5</month>
+             <day>1</day>
+            </date>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_8" >
+           <property name="text" >
+            <string>Horizon date:</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QDateEdit" name="dt_horizonDate" >
+           <property name="calendarPopup" >
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer>
+           <property name="orientation" >
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" >
+            <size>
+             <width>81</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <widget class="Line" name="line" >
+         <property name="orientation" >
+          <enum>Qt::Horizontal</enum>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QWidget" native="1" name="chartWidget" >
+         <property name="sizePolicy" >
+          <sizepolicy vsizetype="Expanding" hsizetype="Expanding" >
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize" >
+          <size>
+           <width>500</width>
+           <height>350</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar" >
+   <property name="geometry" >
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>767</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu_File" >
+    <property name="title" >
+     <string>File</string>
+    </property>
+    <addaction name="action_New" />
+    <addaction name="action_Open" />
+    <addaction name="actionPrint" />
+    <addaction name="action_Save" />
+    <addaction name="separator" />
+    <addaction name="actionExit" />
+   </widget>
+   <widget class="QMenu" name="menu_Help" >
+    <property name="title" >
+     <string>Help</string>
+    </property>
+    <addaction name="actionAbout" />
+    <addaction name="actionAbout_Qt" />
+   </widget>
+   <widget class="QMenu" name="menuWindow" >
+    <property name="title" >
+     <string>Window</string>
+    </property>
+    <addaction name="actionScenarios" />
+    <addaction name="actionContract_Details" />
+    <addaction name="actionPortfolio_Table" />
+    <addaction name="actionScenario_Editor" />
+    <addaction name="actionTrace_Window" />
+   </widget>
+   <addaction name="menu_File" />
+   <addaction name="menuWindow" />
+   <addaction name="menu_Help" />
+  </widget>
+  <widget class="QStatusBar" name="statusbar" />
+  <action name="actionAbout" >
+   <property name="text" >
+    <string>About</string>
+   </property>
+  </action>
+  <action name="action_New" >
+   <property name="text" >
+    <string>&amp;New</string>
+   </property>
+  </action>
+  <action name="action_Open" >
+   <property name="text" >
+    <string>&amp;Open</string>
+   </property>
+  </action>
+  <action name="action_Save" >
+   <property name="text" >
+    <string>&amp;Save</string>
+   </property>
+  </action>
+  <action name="actionExit" >
+   <property name="text" >
+    <string>E&amp;xit</string>
+   </property>
+  </action>
+  <action name="actionAbout_Qt" >
+   <property name="text" >
+    <string>About Qt</string>
+   </property>
+  </action>
+  <action name="actionPrint" >
+   <property name="text" >
+    <string>&amp;Print</string>
+   </property>
+  </action>
+  <action name="actionProperty_Editor" >
+   <property name="text" >
+    <string>Property Editor</string>
+   </property>
+  </action>
+  <action name="actionScenarios" >
+   <property name="checkable" >
+    <bool>true</bool>
+   </property>
+   <property name="checked" >
+    <bool>true</bool>
+   </property>
+   <property name="text" >
+    <string>Chart Setting</string>
+   </property>
+  </action>
+  <action name="actionContract_Details" >
+   <property name="checkable" >
+    <bool>true</bool>
+   </property>
+   <property name="checked" >
+    <bool>true</bool>
+   </property>
+   <property name="text" >
+    <string>Contract Details</string>
+   </property>
+  </action>
+  <action name="actionPortfolio_Table" >
+   <property name="checkable" >
+    <bool>true</bool>
+   </property>
+   <property name="checked" >
+    <bool>true</bool>
+   </property>
+   <property name="text" >
+    <string>Portfolio Table</string>
+   </property>
+  </action>
+  <action name="actionTrace_Window" >
+   <property name="checkable" >
+    <bool>true</bool>
+   </property>
+   <property name="text" >
+    <string>Trace Window</string>
+   </property>
+  </action>
+  <action name="actionScenario_Editor" >
+   <property name="checkable" >
+    <bool>true</bool>
+   </property>
+   <property name="checked" >
+    <bool>true</bool>
+   </property>
+   <property name="text" >
+    <string>Scenario Editor</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,79 @@
+2008-10-17 17:10:56,378 INFO program starts at: 17:10:56 10/17/08 Eastern Daylight Time
+2008-10-17 17:10:56,394 INFO total symbols to be processed is: [510]
+2008-10-17 17:28:17,463 INFO Analysis for 20081017
+2008-10-17 17:28:17,463 INFO total symbols to be processed is: [510]
+2008-10-17 17:28:18,697 ERROR abnormalVol wrong with ^RUT
+2008-10-17 17:28:18,697 ERROR <type 'exceptions.ZeroDivisionError'>
+2008-10-17 17:28:18,697 ERROR float division
+2008-10-17 17:28:18,713 INFO Abnormal Volume List [10]:
+2008-10-17 17:28:18,713 INFO SLE: price change 13.12%--volume change 1.78 : ('Cons. Non-Cyclical', 'Food Processing')
+2008-10-17 17:28:18,713 INFO ICE: price change 8.04%--volume change 1.63 : ('Financial', 'Investment Services')
+2008-10-17 17:28:18,713 INFO UST: price change 3.42%--volume change 2.66 : ('Cons. Non-Cyclical', 'Tobacco')
+2008-10-17 17:28:18,713 INFO DDS: price change -0.14%--volume change 2.89 : ('Services', 'Retail (Department & Discount)')
+2008-10-17 17:28:18,713 INFO WPO: price change -1.39%--volume change 3.17 : ('Services', 'Printing & Publishing')
+2008-10-17 17:28:18,713 INFO SYK: price change -4.68%--volume change 1.89 : ('Healthcare', 'Medical Equipment & Supplies')
+2008-10-17 17:28:18,713 INFO ZION: price change -9.68%--volume change 1.93 : ('Financial', 'Regional Banks')
+2008-10-17 17:28:18,713 INFO ISRG: price change -11.95%--volume change 2.80 : ('Healthcare', 'Medical Equipment & Supplies')
+2008-10-17 17:28:18,713 INFO LEG: price change -12.28%--volume change 2.32 : ('Cons. Cyclical', 'Furniture & Fixtures')
+2008-10-17 17:28:18,713 INFO TMK: price change -14.13%--volume change 2.48 : ('Financial', 'Insurance (Accident & Health)')
+2008-10-17 17:28:18,713 INFO NRD List: ['AA', 'ABI', 'ADI', 'ADSK', 'AIV', 'AIZ', 'AOC', 'AVB', 'AVP', 'BF-B', 'BJS', 'BRCM', 'CBE', 'CCE', 'CF', 'CI', 'CME', 'CMI', 'COL', 'CRM', 'CSX', 'CTXS', 'D', 'DELL', 'DHI', 'DHR', 'DOV', 'DTV', 'DUK', 'ED', 'EIX', 'EL', 'EMC', 'EMN', 'FITB', 'GIS', 'GPC', 'HAS', 'HBAN', 'HPC', 'HPQ', 'HRS', 'ITT', 'ITW', 'JNJ', 'JPM', 'K', 'KMB', 'LIZ', 'LLL', 'LLTC', 'LMT', 'LNC', 'LTD', 'LUV', 'MCD', 'MDT', 'MMC', 'MMM', 'MUR', 'NCC', 'NOC', 'NSM', 'NTAP', 'ODP', 'PAYX', 'PGN', 'PH', 'RRD', 'RTN', 'RX', 'SE', 'SLM', 'SNA', 'STJ', 'STZ', 'TE', 'TER', 'TEX', 'TIE', 'UIS', 'UPS', 'UST', 'VFC', 'VIA-B', 'VRSN', 'WAG', 'WFMI', 'WFR', 'WHR', 'WIN', 'WMT', 'WPO', 'XEL', 'XL', 'XLNX', 'YHOO', '^GSPC', '^RUT']
+2008-10-17 17:28:18,713 INFO TripleDown List: ['AIG', 'APH', 'BAC', 'BAX', 'C', 'JCI', 'MDT', 'MET', 'NEM', 'PBI', 'PFG', 'S', 'SLB', 'SNDK', 'STT', 'TMK', 'UNM']
+2008-10-17 17:28:18,713 INFO TripleUp List: ['FHN', 'HCBK', 'MTB', 'ZION']
+2008-10-17 17:28:18,713 INFO Advance: 378, Decline: 117, Unch 5, Total: 500, Size: 510
+2008-10-17 17:28:18,947 INFO new low List [45]: ['AOC', 'APH', 'AVP', 'BF-B', 'CAM', 'CAT', 'CBG', 'DDS', 'DGX', 'DHI', 'EFX', 'EL', 'EMC', 'FCX', 'FDX', 'FO', 'GENZ', 'IPG', 'JCI', 'JDSU', 'KIM', 'KLAC', 'LLTC', 'MDP', 'MDT', 'MOLX', 'NEM', 'PAYX', 'PBI', 'PDCO', 'PLD', 'PLL', 'QLGC', 'RRD', 'RTN', 'S', 'SLB', 'SNA', 'STZ', 'TEL', 'TMK', 'UIS', 'UPS', 'WPO', '^HSI']
+2008-10-17 17:28:18,947 INFO AOC: ('Financial', 'Insurance (Miscellaneous)')
+2008-10-17 17:28:18,947 INFO APH: ('Technology', 'Electronic Instr. & Controls')
+2008-10-17 17:28:18,947 INFO AVP: ('Cons. Non-Cyclical', 'Personal & Household Prods.')
+2008-10-17 17:28:18,947 INFO BF-B: ('Cons. Non-Cyclical', 'Personal & Household Prods.')
+2008-10-17 17:28:18,947 INFO CAM: ('Energy', 'Oil Well Services & Equipment')
+2008-10-17 17:28:18,947 INFO CAT: ('Capital Goods', 'Constr. & Agric. Machinery')
+2008-10-17 17:28:18,947 INFO CBG: ('Services', 'Real Estate Operations')
+2008-10-17 17:28:18,947 INFO DDS: ('Services', 'Retail (Department & Discount)')
+2008-10-17 17:28:18,947 INFO DGX: ('Healthcare', 'Healthcare Facilities')
+2008-10-17 17:28:18,947 INFO DHI: ('Capital Goods', 'Construction Services')
+2008-10-17 17:28:18,947 INFO EFX: ('Services', 'Business Services')
+2008-10-17 17:28:18,947 INFO EL: ('Cons. Non-Cyclical', 'Personal & Household Prods.')
+2008-10-17 17:28:18,947 INFO EMC: ('Technology', 'Computer Storage Devices')
+2008-10-17 17:28:18,947 INFO FCX: ('Basic Materials', 'Metal Mining')
+2008-10-17 17:28:18,947 INFO FDX: ('Transportation', 'Air Courier')
+2008-10-17 17:28:18,947 INFO FO: ('Conglomerates', 'Conglomerates')
+2008-10-17 17:28:18,947 INFO GENZ: ('Healthcare', 'Biotechnology & Drugs')
+2008-10-17 17:28:18,947 INFO IPG: ('Services', 'Advertising')
+2008-10-17 17:28:18,947 INFO JCI: ('Services', 'Business Services')
+2008-10-17 17:28:18,947 INFO JDSU: ('Technology', 'Communications Equipment')
+2008-10-17 17:28:18,947 INFO KIM: ('Services', 'Real Estate Operations')
+2008-10-17 17:28:18,947 INFO KLAC: ('Technology', 'Semiconductors')
+2008-10-17 17:28:18,947 INFO LLTC: ('Technology', 'Semiconductors')
+2008-10-17 17:28:18,947 INFO MDP: ('Services', 'Printing & Publishing')
+2008-10-17 17:28:18,947 INFO MDT: ('Healthcare', 'Medical Equipment & Supplies')
+2008-10-17 17:28:18,947 INFO MOLX: ('Technology', 'Electronic Instr. & Controls')
+2008-10-17 17:28:18,947 INFO NEM: ('Basic Materials', 'Gold & Silver')
+2008-10-17 17:28:18,947 INFO PAYX: ('Services', 'Business Services')
+2008-10-17 17:28:18,947 INFO PBI: ('Technology', 'Office Equipment')
+2008-10-17 17:28:18,947 INFO PDCO: ('Healthcare', 'Medical Equipment & Supplies')
+2008-10-17 17:28:18,947 INFO PLD: ('Services', 'Real Estate Operations')
+2008-10-17 17:28:18,947 INFO PLL: ('Technology', 'Scientific & Technical Instr.')
+2008-10-17 17:28:18,947 INFO QLGC: ('Technology', 'Semiconductors')
+2008-10-17 17:28:18,947 INFO RRD: ('Services', 'Printing & Publishing')
+2008-10-17 17:28:18,947 INFO RTN: ('Conglomerates', 'Conglomerates')
+2008-10-17 17:28:18,947 INFO S: ('Services', 'Communications Services')
+2008-10-17 17:28:18,947 INFO SLB: ('Energy', 'Oil Well Services & Equipment')
+2008-10-17 17:28:18,963 INFO SNA: ('Cons. Cyclical', 'Appliance & Tool')
+2008-10-17 17:28:18,963 INFO STZ: ('Cons. Non-Cyclical', 'Beverages (Alcoholic)')
+2008-10-17 17:28:18,963 INFO TEL: ('Technology', 'Electronic Instr. & Controls')
+2008-10-17 17:28:18,963 INFO TMK: ('Financial', 'Insurance (Accident & Health)')
+2008-10-17 17:28:18,963 INFO UIS: ('Technology', 'Computer Services')
+2008-10-17 17:28:18,963 INFO UPS: ('Transportation', 'Air Courier')
+2008-10-17 17:28:18,963 INFO WPO: ('Services', 'Printing & Publishing')
+2008-10-17 17:28:18,963 ERROR Not industry info for: ^HSI
+2008-10-17 17:28:18,963 INFO new high List [0]: []
+2008-10-17 17:28:18,977 INFO Bullish patterns:----------
+2008-10-17 17:28:18,977 INFO Morning Star List (0): {}
+2008-10-17 17:28:18,977 INFO Piercing List (26): {100: ['ADSK', 'AZO', 'BCR', 'BMC', 'BMS', 'CBE', 'CTAS', 'CTXS', 'CVH', 'DF', 'DTV', 'ESRX', 'GOOG', 'GPS', 'INTU', 'MAR', 'MHP', 'NTAP', 'PH', 'POM', 'RHI', 'SBUX', 'SIAL', 'SYMC', 'TMO', 'WMB']}
+2008-10-17 17:28:18,977 INFO Harami List (2): {100: ['AN', 'RDC']}
+2008-10-17 17:28:18,977 INFO Bearish patterns:----------
+2008-10-17 17:28:18,977 INFO Evening Star List (0): {}
+2008-10-17 17:28:18,977 INFO Shotting Star List (0): {}
+2008-10-17 17:28:18,977 INFO Dark Cloud Cover List (0): {}
+2008-10-17 17:28:19,025 INFO program took 1042.647 s
+2008-10-17 17:28:19,025 INFO program ends at: 17:28:19 10/17/08 Eastern Daylight Time

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" 
+	xmlns:componentsLibrary="com.jpmc.panelGroups.componentsLibrary.*" creationComplete="moduleReadyHandler()">
+	
+<mx:Script>
+		<![CDATA[
+			
+			
+		
+			import mx.collections.ArrayCollection;
+		
+			
+			
+			private function btnEventHandler():void
+			{
+					
+					
+					var eventType = "ADDTOQUERYEVENT";
+					
+					var expressionArray:Array = ['Expression 1','Expression 2']
+					
+					var labelsArray:Array = ['Label 1','Label 2']
+					
+							
+					
+					
+					ResultArea.text += "----------Start of Output dispatched from Flex------------\n";
+					ResultArea.text += "Event Type --:" + eventType + "\n";
+					ResultArea.text += "----------"+expressionArray.length + " Symbols to be Dispatched ------------\n";
+					ResultArea.text += "----------" +labelsArray.length +" Labels to be Dispatched ------------\n";
+					
+					var expressionString:String = "";
+					var labelString:String = ""; 
+					
+					for(var i:Number=0;i<expressionArray.length;i++)
+					{
+						ResultArea.text += expressionArray[i] + "\t" + labelsArray[i] + "\n";
+						if(i == (expressionArray.length - 1))
+						{
+							expressionString += expressionArray[i]
+							labelString +=	labelsArray[i] ;
+							
+						}else
+						{
+						
+							expressionString += expressionArray[i] + "|";
+							labelString +=	labelsArray[i] + "|";
+						}	
+					}
+					ResultArea.text += "----------End of Output dispatched from Flex------------\n";
+					//For Python and HTML Clients 
+					if(ExternalInterface.available)
+					{
+						ExternalInterface.call("setSymbols",eventType,expressionString,labelString);
+					}
+					
+			}			
+		
+			public function getPanelData(panelURL:String,panelHeader:String,panelProvider:String):void
+			{
+				inputArea.text +="--------------Inside Flex getPanelData Function -------\n"
+				inputArea.text +="--------------Input paramters received are -------\n";
+				inputArea.text += "panelURL = "+ panelURL  + "\n"; 
+				inputArea.text += "panelHeader = "+ panelHeader + "\n";
+				inputArea.text += "panelProvider = "+ panelProvider + "\n";
+								
+				//moduleInstance.loadPanelModuleData(requestObject);
+			}
+			
+			private function moduleReadyHandler():void
+			{
+				//For DQPython and HTML Client
+				if(ExternalInterface.available)
+				{
+					
+					ExternalInterface.addCallback("getPanelData",getPanelData);
+					ExternalInterface.call("flexLoaded");
+				}
+			}
+			
+			
+		]]>
+</mx:Script>
+<mx:VBox>
+  <mx:Label  text="Input Paramaters Display"/>	
+
+  <mx:TextArea id="inputArea" width="440" height="200" fontSize="13" left="20"/>
+  <mx:Button label="Call Python Function" click="btnEventHandler()"/>
+  <mx:Label  text="Output Paramaters Display"/>
+  <mx:TextArea id="ResultArea" width="440" height="200" fontSize="13" left="20"/>
+  
+</mx:VBox>
+
+
+
+</mx:Application>

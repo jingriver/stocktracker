@@ -1,0 +1,53 @@
+2008-10-14 15:06:10,506 INFO program starts at: 15:06:10 10/14/08 Eastern Daylight Time
+2008-10-14 15:06:10,506 INFO total symbols to be processed is: [510]
+2008-10-14 15:11:36,539 INFO Analysis for 20081014
+2008-10-14 15:11:36,539 INFO total symbols to be processed is: [510]
+2008-10-14 15:11:37,821 ERROR abnormalVol wrong with ^RUT
+2008-10-14 15:11:37,821 ERROR <type 'exceptions.ZeroDivisionError'>
+2008-10-14 15:11:37,821 ERROR float division
+2008-10-14 15:11:37,821 INFO Abnormal Volume List [9]:
+2008-10-14 15:11:37,821 INFO XL: price change 45.36%--volume change 2.25 : ('Financial', 'Insurance (Prop. & Casualty)')
+2008-10-14 15:11:37,821 INFO KEY: price change 36.47%--volume change 2.16 : ('Financial', 'Regional Banks')
+2008-10-14 15:11:37,821 INFO GWW: price change 2.26%--volume change 1.54 : ('Capital Goods', 'Misc. Capital Goods')
+2008-10-14 15:11:37,821 INFO LTD: price change -1.38%--volume change 1.65 : ('Services', 'Retail (Apparel)')
+2008-10-14 15:11:37,821 INFO SVU: price change -2.61%--volume change 1.65 : ('Services', 'Retail (Grocery)')
+2008-10-14 15:11:37,821 INFO SOV: price change -8.15%--volume change 1.77 : ('Financial', 'S&Ls/Savings Banks')
+2008-10-14 15:11:37,821 INFO STR: price change -10.20%--volume change 1.63 : ('Energy', 'Oil & Gas Operations')
+2008-10-14 15:11:37,821 INFO PEP: price change -12.76%--volume change 2.11 : ('Cons. Non-Cyclical', 'Beverages (Non-Alcoholic)')
+2008-10-14 15:11:37,821 INFO JDSU: price change -14.46%--volume change 1.96 : ('Technology', 'Communications Equipment')
+2008-10-14 15:11:37,836 INFO NRD List: ['APOL', 'BBT', 'CAG', 'CHRW', 'CIT', 'COF', 'CPB', 'CVH', 'DGX', 'GIS', 'HAR', 'HUM', 'IVZ', 'LMT', 'MER', 'NYT', 'SLE', 'SNI', 'STT', 'SWN', 'TMK']
+2008-10-14 15:11:37,836 INFO TripleDown List: ['AMD', 'F', 'FO', 'GM', 'M', 'NOC', 'VMC']
+2008-10-14 15:11:37,836 INFO TripleUp List: ['AMP', 'HIG', 'HPC', 'HUM', 'LNC', 'WLP', 'XL']
+2008-10-14 15:11:37,836 INFO Advance: 29, Decline: 469, Unch 2, Total: 500, Size: 510
+2008-10-14 15:11:38,071 INFO new low List [20]: ['AMZN', 'AN', 'CTX', 'DDS', 'DHI', 'EXPE', 'GCI', 'GT', 'JCI', 'JCP', 'JDSU', 'JWN', 'KIM', 'PEP', 'SHLD', 'TXN', 'VFC', 'VNO', 'WAG', 'WY']
+2008-10-14 15:11:38,071 INFO AMZN: ('Services', 'Retail (Specialty)')
+2008-10-14 15:11:38,071 INFO AN: ('Services', 'Retail (Specialty)')
+2008-10-14 15:11:38,071 INFO CTX: ('Capital Goods', 'Construction Services')
+2008-10-14 15:11:38,071 INFO DDS: ('Services', 'Retail (Department & Discount)')
+2008-10-14 15:11:38,071 INFO DHI: ('Capital Goods', 'Construction Services')
+2008-10-14 15:11:38,071 INFO EXPE: ('Services', 'Personal Services')
+2008-10-14 15:11:38,071 INFO GCI: ('Services', 'Printing & Publishing')
+2008-10-14 15:11:38,071 INFO GT: ('Cons. Cyclical', 'Tires')
+2008-10-14 15:11:38,071 INFO JCI: ('Services', 'Business Services')
+2008-10-14 15:11:38,071 INFO JCP: ('Services', 'Retail (Department & Discount)')
+2008-10-14 15:11:38,071 INFO JDSU: ('Technology', 'Communications Equipment')
+2008-10-14 15:11:38,071 INFO JWN: ('Services', 'Retail (Apparel)')
+2008-10-14 15:11:38,071 INFO KIM: ('Services', 'Real Estate Operations')
+2008-10-14 15:11:38,071 INFO PEP: ('Cons. Non-Cyclical', 'Beverages (Non-Alcoholic)')
+2008-10-14 15:11:38,071 INFO SHLD: ('Services', 'Retail (Department & Discount)')
+2008-10-14 15:11:38,071 INFO TXN: ('Technology', 'Semiconductors')
+2008-10-14 15:11:38,071 INFO VFC: ('Cons. Cyclical', 'Apparel/Accessories')
+2008-10-14 15:11:38,071 INFO VNO: ('Services', 'Real Estate Operations')
+2008-10-14 15:11:38,071 INFO WAG: ('Services', 'Retail (Drugs)')
+2008-10-14 15:11:38,071 INFO WY: ('Basic Materials', 'Forestry & Wood Products')
+2008-10-14 15:11:38,071 INFO new high List [0]: []
+2008-10-14 15:11:38,102 INFO Bullish patterns:----------
+2008-10-14 15:11:38,102 INFO Morning Star List (1): {100: ['ZMH']}
+2008-10-14 15:11:38,102 INFO Piercing List (0): {}
+2008-10-14 15:11:38,102 INFO Harami List (0): {}
+2008-10-14 15:11:38,102 INFO Bearish patterns:----------
+2008-10-14 15:11:38,102 INFO Evening Star List (0): {}
+2008-10-14 15:11:38,102 INFO Shotting Star List (0): {}
+2008-10-14 15:11:38,102 INFO Dark Cloud Cover List (0): {}
+2008-10-14 15:11:38,134 INFO program took 327.627 s
+2008-10-14 15:11:38,134 INFO program ends at: 15:11:38 10/14/08 Eastern Daylight Time

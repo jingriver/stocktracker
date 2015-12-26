@@ -1,0 +1,501 @@
+Symbol,Company,Country,GICS,Sector,Price
+MMM            ,3M Company,US                ,20        ,Industrials,      68.68
+ABT            ,Abbott Labs,US                ,35        ,Health Care,      57.90
+ANF            ,Abercrombie & Fitch Co.,US                ,25        ,Consumer Discretionary,      49.72
+ADBE           ,Adobe Systems,US                ,45        ,Information Technology,      40.73
+AMD            ,Advanced Micro Devices,US                ,45        ,Information Technology,       5.78
+AES            ,AES Corp.,US                ,55        ,Utilities,      13.86
+AET            ,Aetna Inc.,US                ,35        ,Health Care,      41.92
+ACS            ,Affiliated Computer,US                ,45        ,Information Technology,      52.16
+AFL            ,AFLAC Inc.,US                ,40        ,Financials,      57.00
+A              ,Agilent Technologies,US                ,45        ,Information Technology,      31.89
+APD            ,Air Products & Chemicals,US                ,15        ,Materials,      85.16
+AKS            ,AK Steel Holding Corp.,US                ,15        ,Materials,      35.23
+AKAM           ,Akamai Technologies Inc,US                ,45        ,Information Technology,      18.31
+AA             ,Alcoa Inc,US                ,15        ,Materials,      27.19
+AYE            ,Allegheny Energy,US                ,55        ,Utilities,      40.97
+ATI            ,Allegheny Technologies Inc,US                ,15        ,Materials,      40.79
+AGN            ,Allergan  Inc.,US                ,35        ,Health Care,      54.58
+AW             ,Allied Waste Industries,US                ,20        ,Industrials,      13.14
+ALL            ,Allstate Corp.,US                ,40        ,Financials,      45.51
+ALTR           ,Altera Corp.,US                ,45        ,Information Technology,      20.29
+MO             ,Altria Group  Inc.,US                ,30        ,Consumer Staples,      20.76
+AMZN           ,Amazon Corp.,US                ,25        ,Consumer Discretionary,      76.74
+AEE            ,Ameren Corporation,US                ,55        ,Utilities,      39.45
+ACAS           ,American Capital  Ltd.,US                ,40        ,Financials,      21.62
+AEP            ,American Electric Power,US                ,55        ,Utilities,      38.60
+AXP            ,American Express,US                ,40        ,Financials,      38.16
+AIG            ,American Int'l. Group,US                ,40        ,Financials,      17.50
+AMT            ,American Tower Corp.,US                ,50        ,Telecommunications Services,      38.32
+AMP            ,Ameriprise Financial  Inc.,US                ,40        ,Financials,      42.44
+ABC            ,AmerisourceBergen Corp.,US                ,35        ,Health Care,      40.67
+AMGN           ,Amgen,US                ,35        ,Health Care,      62.10
+APC            ,Anadarko Petroleum,US                ,10        ,Energy,      54.83
+ADI            ,Analog Devices,US                ,45        ,Information Technology,      26.40
+BUD            ,Anheuser-Busch,US                ,30        ,Consumer Staples,      68.14
+AOC            ,Aon Corp.,US                ,40        ,Financials,      46.14
+APA            ,Apache Corp.,US                ,10        ,Energy,     105.36
+AIV            ,Apartment Investment & Mgmt'A',US                ,40        ,Financials,      35.15
+APOL           ,Apollo Group,US                ,25        ,Consumer Discretionary,      64.70
+AAPL           ,Apple Inc.,US                ,45        ,Information Technology,     151.61
+ABI            ,Applied Biosystems Inc.,US                ,35        ,Health Care,      35.98
+AMAT           ,Applied Materials,US                ,45        ,Information Technology,      16.37
+ADM            ,Archer-Daniels-Midland,US                ,30        ,Consumer Staples,      22.10
+ASH            ,Ashland Inc.,US                ,15        ,Materials,      38.35
+AIZ            ,Assurant Inc,US                ,40        ,Financials,      57.21
+T              ,AT&T Inc.,US                ,50        ,Telecommunications Services,      31.55
+ADSK           ,Autodesk  Inc.,US                ,45        ,Information Technology,      33.46
+ADP            ,Automatic Data Processing Inc.,US                ,45        ,Information Technology,      44.59
+AN             ,AutoNation  Inc.,US                ,25        ,Consumer Discretionary,      12.62
+AZO            ,AutoZone Inc.,US                ,25        ,Consumer Discretionary,     137.00
+AVB            ,AvalonBay Communities,US                ,40        ,Financials,     100.15
+AVY            ,Avery Dennison Corp.,US                ,20        ,Industrials,      44.91
+AVP            ,Avon Products,US                ,30        ,Consumer Staples,      43.47
+BHI            ,Baker Hughes,US                ,10        ,Energy,      64.71
+BLL            ,Ball Corp.,US                ,15        ,Materials,      42.92
+BAC            ,Bank of America Corp.,US                ,40        ,Financials,      32.40
+BK             ,Bank of New York Mellon Corp. (New),US                ,40        ,Financials,      38.50
+BCR            ,Bard (C.R.) Inc.,US                ,35        ,Health Care,      95.31
+BRL            ,Barr Pharmaceuticals  Inc.,US                ,35        ,Health Care,      66.68
+BAX            ,Baxter International Inc.,US                ,35        ,Health Care,      69.02
+BBT            ,BB&T Corporation,US                ,40        ,Financials,      31.43
+BDX            ,Becton  Dickinson,US                ,35        ,Health Care,      84.11
+BBBY           ,Bed Bath & Beyond,US                ,25        ,Consumer Discretionary,      31.79
+BMS            ,Bemis Company,US                ,15        ,Materials,      27.80
+BBY            ,Best Buy Co.  Inc.,US                ,25        ,Consumer Discretionary,      45.21
+BIG            ,Big Lots  Inc.,US                ,25        ,Consumer Discretionary,      32.56
+BIIB           ,BIOGEN IDEC Inc.,US                ,35        ,Health Care,      47.30
+BJS            ,BJ Services,US                ,10        ,Energy,      21.14
+BDK            ,Black & Decker Corp.,US                ,25        ,Consumer Discretionary,      65.74
+HRB            ,Block H&R,US                ,25        ,Consumer Discretionary,      23.61
+BMC            ,BMC Software,US                ,45        ,Information Technology,      31.59
+BA             ,Boeing Company,US                ,20        ,Industrials,      61.71
+BXP            ,Boston Properties,US                ,40        ,Financials,     102.63
+BSX            ,Boston Scientific,US                ,35        ,Health Care,      12.65
+BMY            ,Bristol-Myers Squibb,US                ,35        ,Health Care,      21.67
+BRCM           ,Broadcom Corporation,US                ,45        ,Information Technology,      22.02
+BF.B           ,Brown-Forman Corp.,US                ,30        ,Consumer Staples,      72.19
+BNI            ,Burlington Northern Santa Fe C,US                ,20        ,Industrials,      99.44
+CHRW           ,C.H. Robinson Worldwide,US                ,20        ,Industrials,      52.98
+CA             ,CA  Inc.,US                ,45        ,Information Technology,      21.73
+COG            ,Cabot Oil & Gas,US                ,10        ,Energy,      36.70
+CAM            ,Cameron International Corp.,US                ,10        ,Energy,      40.13
+CPB            ,Campbell Soup,US                ,30        ,Consumer Staples,      37.58
+COF            ,Capital One Financial,US                ,40        ,Financials,      45.58
+CAH            ,Cardinal Health  Inc.,US                ,35        ,Health Care,      52.53
+CCL            ,Carnival Corp.,US                ,25        ,Consumer Discretionary,      39.60
+CAT            ,Caterpillar Inc.,US                ,20        ,Industrials,      62.82
+CBG            ,CB Richard Ellis Group,US                ,40        ,Financials,      13.51
+CBS            ,CBS Corp.,US                ,25        ,Consumer Discretionary,      16.87
+CELG           ,Celgene Corp.,US                ,35        ,Health Care,      68.05
+CNP            ,CenterPoint Energy,US                ,55        ,Utilities,      15.63
+CTX            ,Centex Corp.,US                ,25        ,Consumer Discretionary,      17.19
+CTL            ,Century Telephone,US                ,50        ,Telecommunications Services,      39.64
+CF             ,CF Industries Holdings Inc,US                ,15        ,Materials,     109.61
+SCHW           ,Charles Schwab,US                ,40        ,Financials,      23.79
+CHK            ,Chesapeake Energy,US                ,10        ,Energy,      40.15
+CVX            ,Chevron Corp.,US                ,10        ,Energy,      81.16
+CB             ,Chubb Corp.,US                ,40        ,Financials,      49.22
+CIEN           ,Ciena Corp.,US                ,45        ,Information Technology,      11.41
+CI             ,CIGNA Corp.,US                ,35        ,Health Care,      39.92
+CINF           ,Cincinnati Financial,US                ,40        ,Financials,      29.46
+CTAS           ,Cintas Corporation,US                ,20        ,Industrials,      31.31
+CSCO           ,Cisco Systems,US                ,45        ,Information Technology,      22.99
+CIT            ,CIT Group,US                ,40        ,Financials,      10.58
+C              ,Citigroup Inc.,US                ,40        ,Financials,      18.68
+CTXS           ,Citrix Systems,US                ,45        ,Information Technology,      27.62
+CLX            ,Clorox Co.,US                ,30        ,Consumer Staples,      62.75
+CME            ,CME Group Inc.,US                ,40        ,Financials,     332.21
+CMS            ,CMS Energy,US                ,55        ,Utilities,      13.55
+COH            ,Coach  Inc.,US                ,25        ,Consumer Discretionary,      29.30
+KO             ,Coca Cola Co.,US                ,30        ,Consumer Staples,      53.81
+CCE            ,Coca-Cola Enterprises,US                ,30        ,Consumer Staples,      17.07
+CTSH           ,Cognizant Technology Solutions,US                ,45        ,Information Technology,      27.82
+CL             ,Colgate-Palmolive,US                ,30        ,Consumer Staples,      78.20
+CMCSA          ,Comcast Corp.,US                ,25        ,Consumer Discretionary,      21.12
+CMA            ,Comerica Inc.,US                ,40        ,Financials,      31.59
+CSC            ,Computer Sciences Corp.,US                ,45        ,Information Technology,      44.54
+CPWR           ,Compuware Corp.,US                ,45        ,Information Technology,      10.94
+CAG            ,ConAgra Foods  Inc.,US                ,30        ,Consumer Staples,      19.80
+COP            ,ConocoPhillips,US                ,10        ,Energy,      71.87
+CNX            ,CONSOL Energy Inc.,US                ,10        ,Energy,      52.39
+ED             ,Consolidated Edison,US                ,55        ,Utilities,      42.90
+STZ            ,Constellation Brands,US                ,30        ,Consumer Staples,      22.63
+CEG            ,Constellation Energy Group,US                ,55        ,Utilities,      59.14
+CVG            ,Convergys Corp.,US                ,45        ,Information Technology,      16.53
+CBE            ,Cooper Industries  Ltd.,US                ,20        ,Industrials,      45.43
+GLW            ,Corning Inc.,US                ,45        ,Information Technology,      16.22
+COST           ,Costco Co.,US                ,30        ,Consumer Staples,      69.43
+CVH            ,Coventry Health Care Inc.,US                ,35        ,Health Care,      34.99
+COV            ,Covidien Ltd.,US                ,35        ,Health Care,      55.09
+CSX            ,CSX Corp.,US                ,20        ,Industrials,      54.85
+CMI            ,Cummins  Inc.,US                ,20        ,Industrials,      56.64
+CVS            ,CVS Caremark Corp.,US                ,30        ,Consumer Staples,      36.85
+DHI            ,D.R. Horton,US                ,25        ,Consumer Discretionary,      13.22
+DHR            ,Danaher Corp.,US                ,20        ,Industrials,      77.19
+DRI            ,Darden Restaurants,US                ,25        ,Consumer Discretionary,      30.52
+DVA            ,DaVita Inc.,US                ,35        ,Health Care,      56.70
+DF             ,Dean Foods,US                ,30        ,Consumer Staples,      23.84
+DE             ,Deere & Co.,US                ,20        ,Industrials,      59.75
+DELL           ,Dell Inc.,US                ,45        ,Information Technology,      19.31
+DDR            ,Developers Diversified Rlty,US                ,40        ,Financials,      35.45
+DVN            ,Devon Energy Corp.,US                ,10        ,Energy,      91.67
+DDS            ,Dillard Inc.,US                ,25        ,Consumer Discretionary,      13.40
+DTV            ,DIRECTV Group Inc.,US                ,25        ,Consumer Discretionary,      27.07
+DFS            ,Discover Financial Services,US                ,40        ,Financials,      16.81
+D              ,Dominion Resources,US                ,55        ,Utilities,      42.30
+RRD            ,Donnelley (R.R.) & Sons,US                ,20        ,Industrials,      27.14
+DOV            ,Dover Corp.,US                ,20        ,Industrials,      45.62
+DOW            ,Dow Chemical,US                ,15        ,Materials,      34.83
+DTE            ,DTE Energy Co.,US                ,55        ,Utilities,      43.52
+DD             ,Du Pont (E.I.),US                ,15        ,Materials,      44.36
+DUK            ,Duke Energy,US                ,55        ,Utilities,      17.87
+DYN            ,Dynegy Inc.,US                ,55        ,Utilities,       4.74
+ETFC           ,E*Trade Financial Corp.,US                ,40        ,Financials,       3.03
+EMN            ,Eastman Chemical,US                ,15        ,Materials,      57.16
+EK             ,Eastman Kodak,US                ,25        ,Consumer Discretionary,      15.12
+ETN            ,Eaton Corp.,US                ,20        ,Industrials,      69.94
+EBAY           ,eBay Inc.,US                ,45        ,Information Technology,      23.37
+ECL            ,Ecolab Inc.,US                ,15        ,Materials,      46.97
+EIX            ,Edison Int'l,US                ,55        ,Utilities,      41.77
+EP             ,El Paso Corp.,US                ,10        ,Energy,      14.14
+ERTS           ,Electronic Arts,US                ,45        ,Information Technology,      45.63
+EQ             ,Embarq Corporation,US                ,50        ,Telecommunications Services,      45.78
+EMC            ,EMC Corp.,US                ,45        ,Information Technology,      14.00
+EMR            ,Emerson Electric,US                ,20        ,Industrials,      43.61
+ESV            ,ENSCO Int'l,US                ,10        ,Energy,      59.37
+ETR            ,Entergy Corp.,US                ,55        ,Utilities,      95.90
+EOG            ,EOG Resources,US                ,10        ,Energy,      87.82
+EFX            ,Equifax Inc.,US                ,20        ,Industrials,      36.29
+EQR            ,Equity Residential,US                ,40        ,Financials,      42.46
+EL             ,Estee Lauder Cos.,US                ,30        ,Consumer Staples,      51.93
+EXC            ,Exelon Corp.,US                ,55        ,Utilities,      64.23
+EXPE           ,Expedia Inc.,US                ,25        ,Consumer Discretionary,      17.12
+EXPD           ,Expeditors Int'l,US                ,20        ,Industrials,      34.76
+ESRX           ,Express Scripts,US                ,35        ,Health Care,      72.90
+XOM            ,Exxon Mobil Corp.,US                ,10        ,Energy,      75.25
+FDO            ,Family Dollar Stores,US                ,25        ,Consumer Discretionary,      26.96
+FII            ,Federated Investors Inc.,US                ,40        ,Financials,      31.61
+FDX            ,FedEx Corporation,US                ,20        ,Industrials,      87.86
+FIS            ,Fidelity National Information Services,US                ,45        ,Information Technology,      21.58
+FITB           ,Fifth Third Bancorp,US                ,40        ,Financials,      14.85
+FHN            ,First Horizon National,US                ,40        ,Financials,      10.82
+FE             ,FirstEnergy Corp.,US                ,55        ,Utilities,      66.62
+FISV           ,FIserv Inc.,US                ,45        ,Information Technology,      51.90
+FLR            ,Fluor Corp. (New),US                ,20        ,Industrials,      59.80
+F              ,Ford Motor,US                ,25        ,Consumer Discretionary,       4.47
+FRX            ,Forest Laboratories,US                ,35        ,Health Care,      30.00
+FO             ,Fortune Brands  Inc.,US                ,25        ,Consumer Discretionary,      61.22
+FPL            ,FPL Group,US                ,55        ,Utilities,      54.78
+BEN            ,Franklin Resources,US                ,40        ,Financials,      96.82
+FCX            ,Freeport-McMoran Cp & Gld,US                ,15        ,Materials,      69.18
+FTR            ,Frontier Communications,US                ,50        ,Telecommunications Services,      12.32
+GME            ,GameStop Corp.,US                ,25        ,Consumer Discretionary,      42.76
+GCI            ,Gannett Co.,US                ,25        ,Consumer Discretionary,      17.52
+GPS            ,Gap (The),US                ,25        ,Consumer Discretionary,      19.32
+GD             ,General Dynamics,US                ,20        ,Industrials,      83.02
+GE             ,General Electric,US                ,20        ,Industrials,      28.09
+GIS            ,General Mills,US                ,30        ,Consumer Staples,      67.68
+GM             ,General Motors,US                ,25        ,Consumer Discretionary,      11.42
+GGP            ,Genl Growth Properties,US                ,40        ,Financials,      25.98
+GPC            ,Genuine Parts,US                ,25        ,Consumer Discretionary,      42.13
+GNW            ,Genworth Financial Inc.,US                ,40        ,Financials,      15.57
+GENZ           ,Genzyme Corp.,US                ,35        ,Health Care,      79.75
+GILD           ,Gilead Sciences,US                ,35        ,Health Care,      46.82
+GS             ,Goldman Sachs Group,US                ,40        ,Financials,     157.59
+GR             ,Goodrich Corporation,US                ,20        ,Industrials,      50.00
+GT             ,Goodyear Tire & Rubber,US                ,25        ,Consumer Discretionary,      17.32
+GOOG           ,Google Inc.,US                ,45        ,Information Technology,     414.16
+GWW            ,Grainger (W.W.) Inc.,US                ,20        ,Industrials,      88.39
+HAL            ,Halliburton Co.,US                ,10        ,Energy,      35.58
+HOG            ,Harley-Davidson,US                ,25        ,Consumer Discretionary,      41.45
+HAR            ,Harman Int'l Industries,US                ,25        ,Consumer Discretionary,      33.26
+HIG            ,Hartford Financial Svc.Gp.,US                ,40        ,Financials,      62.03
+HAS            ,Hasbro Inc.,US                ,25        ,Consumer Discretionary,      38.44
+HCP            ,HCP  Inc.,US                ,40        ,Financials,      34.28
+HNZ            ,Heinz (H.J.),US                ,30        ,Consumer Staples,      52.44
+HPC            ,Hercules  Inc.,US                ,15        ,Materials,      21.54
+HES            ,Hess Corporation,US                ,10        ,Energy,      85.67
+HPQ            ,Hewlett-Packard,US                ,45        ,Information Technology,      46.76
+HD             ,Home Depot,US                ,25        ,Consumer Discretionary,      29.10
+HON            ,Honeywell Int'l Inc.,US                ,20        ,Industrials,      47.56
+HSP            ,Hospira Inc.,US                ,35        ,Health Care,      39.46
+HST            ,Host Hotels & Resorts,US                ,40        ,Financials,      14.96
+HCBK           ,Hudson City Bancorp,US                ,40        ,Financials,      18.16
+HUM            ,Humana Inc.,US                ,35        ,Health Care,      45.72
+HBAN           ,Huntington Bancshares,US                ,40        ,Financials,       8.06
+ITW            ,Illinois Tool Works,US                ,20        ,Industrials,      48.19
+RX             ,IMS Health Inc.,US                ,35        ,Health Care,      21.05
+IR             ,Ingersoll-Rand Co. Ltd.,US                ,20        ,Industrials,      35.01
+TEG            ,Integrys Energy Group  Inc.,US                ,55        ,Utilities,      51.97
+INTC           ,Intel Corp.,US                ,45        ,Information Technology,      20.16
+ICE            ,IntercontinentalExchange Inc.,US                ,40        ,Financials,      90.63
+IBM            ,International Bus. Machines,US                ,45        ,Information Technology,     118.04
+IFF            ,International Flav/Frag,US                ,15        ,Materials,      41.20
+IGT            ,International Game Technology,US                ,25        ,Consumer Discretionary,      19.95
+IP             ,International Paper,US                ,15        ,Materials,      29.67
+IPG            ,Interpublic Group,US                ,25        ,Consumer Discretionary,       8.85
+INTU           ,Intuit  Inc.,US                ,45        ,Information Technology,      30.17
+ISRG           ,Intuitive Surgical Inc.,US                ,35        ,Health Care,     273.94
+IVZ            ,Invesco Ltd,US                ,40        ,Financials,      24.15
+ITT            ,ITT Corporation,US                ,20        ,Industrials,      59.79
+JBL            ,Jabil Circuit,US                ,45        ,Information Technology,      12.81
+JEC            ,Jacobs Engineering Group,US                ,20        ,Industrials,      60.06
+JNS            ,Janus Capital Group,US                ,40        ,Financials,      23.48
+JDSU           ,JDS Uniphase Corp.,US                ,45        ,Information Technology,       9.58
+JNJ            ,Johnson & Johnson,US                ,35        ,Health Care,      71.23
+JCI            ,Johnson Controls,US                ,25        ,Consumer Discretionary,      30.40
+JNY            ,Jones Apparel Group,US                ,25        ,Consumer Discretionary,      21.10
+JPM            ,JPMorgan Chase & Co.,US                ,40        ,Financials,      39.40
+JNPR           ,Juniper Networks,US                ,45        ,Information Technology,      25.28
+KBH            ,KB Home,US                ,25        ,Consumer Discretionary,      21.82
+K              ,Kellogg Co.,US                ,30        ,Consumer Staples,      55.43
+KEY            ,KeyCorp,US                ,40        ,Financials,      12.56
+KMB            ,Kimberly-Clark,US                ,30        ,Consumer Staples,      64.36
+KIM            ,Kimco Realty,US                ,40        ,Financials,      37.26
+KG             ,King Pharmaceuticals,US                ,35        ,Health Care,      11.25
+KLAC           ,KLA-Tencor Corp.,US                ,45        ,Information Technology,      33.66
+KSS            ,Kohl's Corp.,US                ,25        ,Consumer Discretionary,      52.44
+KFT            ,Kraft Foods Inc-A,US                ,30        ,Consumer Staples,      32.79
+KR             ,Kroger Co.,US                ,30        ,Consumer Staples,      27.98
+LLL            ,L-3 Communications Holdings,US                ,20        ,Industrials,     102.44
+LH             ,Laboratory Corp. of America Holding,US                ,35        ,Health Care,      74.00
+LM             ,Legg Mason,US                ,40        ,Financials,      42.75
+LEG            ,Leggett & Platt,US                ,25        ,Consumer Discretionary,      23.37
+LEH            ,Lehman Bros.,US                ,40        ,Financials,       7.25
+LEN            ,Lennar Corp.,US                ,25        ,Consumer Discretionary,      13.34
+LUK            ,Leucadia National Corp.,US                ,40        ,Financials,      42.08
+LXK            ,Lexmark Int'l Inc,US                ,45        ,Information Technology,      34.95
+LLY            ,Lilly (Eli) & Co.,US                ,35        ,Health Care,      46.73
+LTD            ,Limited Brands  Inc.,US                ,25        ,Consumer Discretionary,      21.06
+LNC            ,Lincoln National,US                ,40        ,Financials,      50.53
+LLTC           ,Linear Technology Corp.,US                ,45        ,Information Technology,      29.66
+LIZ            ,Liz Claiborne  Inc.,US                ,25        ,Consumer Discretionary,      18.64
+LMT            ,Lockheed Martin Corp.,US                ,20        ,Industrials,     114.09
+L              ,Loews Corp.,US                ,40        ,Financials,      41.55
+LO             ,Lorillard Inc.,US                ,30        ,Consumer Staples,      73.30
+LOW            ,Lowe's Cos.,US                ,25        ,Consumer Discretionary,      25.23
+LSI            ,LSI Corporation,US                ,45        ,Information Technology,       6.26
+MTB            ,M&T Bank Corp.,US                ,40        ,Financials,      74.75
+M              ,Macy's Inc.,US                ,25        ,Consumer Discretionary,      21.88
+MTW            ,Manitowoc Co.,US                ,20        ,Industrials,      20.04
+MRO            ,Marathon Oil Corp.,US                ,10        ,Energy,      42.02
+MAR            ,Marriott Int'l.,US                ,25        ,Consumer Discretionary,      28.81
+MMC            ,Marsh & McLennan,US                ,40        ,Financials,      32.31
+MI             ,Marshall & Ilsley Corp.,US                ,40        ,Financials,      16.97
+MAS            ,Masco Corp.,US                ,20        ,Industrials,      19.01
+MEE            ,Massey Energy Company,US                ,10        ,Energy,      42.10
+MA             ,Mastercard Inc.,US                ,45        ,Information Technology,     213.32
+MAT            ,Mattel  Inc.,US                ,25        ,Consumer Discretionary,      19.32
+MBI            ,MBIA Inc.,US                ,40        ,Financials,      14.20
+MKC            ,McCormick & Co.,US                ,30        ,Consumer Staples,      40.75
+MCD            ,McDonald's Corp.,US                ,25        ,Consumer Discretionary,      63.20
+MHP            ,McGraw-Hill,US                ,25        ,Consumer Discretionary,      43.75
+MCK            ,McKesson Corp. (New),US                ,35        ,Health Care,      57.90
+MWV            ,MeadWestvaco Corporation,US                ,15        ,Materials,      27.42
+MHS            ,Medco Health Solutions Inc.,US                ,35        ,Health Care,      48.06
+MDT            ,Medtronic Inc.,US                ,35        ,Health Care,      53.84
+WFR            ,MEMC Electronic Materials,US                ,45        ,Information Technology,      34.05
+MRK            ,Merck & Co.,US                ,35        ,Health Care,      33.52
+MDP            ,Meredith Corp.,US                ,25        ,Consumer Discretionary,      29.19
+MER            ,Merrill Lynch,US                ,40        ,Financials,      23.30
+MET            ,MetLife Inc.,US                ,40        ,Financials,      57.00
+MTG            ,MGIC Investment,US                ,40        ,Financials,       6.52
+MCHP           ,Microchip Technology,US                ,45        ,Information Technology,      28.90
+MU             ,Micron Technology,US                ,45        ,Information Technology,       4.91
+MSFT           ,Microsoft Corp.,US                ,45        ,Information Technology,      26.44
+MIL            ,Millipore Corp.,US                ,35        ,Health Care,      74.09
+MOLX           ,Molex Inc.,US                ,45        ,Information Technology,      24.00
+TAP            ,Molson Coors Brewing Company,US                ,30        ,Consumer Staples,      48.68
+MON            ,Monsanto Co.,US                ,15        ,Materials,     101.00
+MNST           ,Monster Worldwide,US                ,20        ,Industrials,      19.26
+MCO            ,Moody's Corp,US                ,40        ,Financials,      39.02
+MS             ,Morgan Stanley,US                ,40        ,Financials,      38.92
+MOT            ,Motorola Inc.,US                ,45        ,Information Technology,       8.31
+MUR            ,Murphy Oil,US                ,10        ,Energy,      67.60
+MYL            ,Mylan Inc.,US                ,35        ,Health Care,      11.47
+NBR            ,Nabors Industries Ltd.,US                ,10        ,Energy,      28.30
+NCC            ,National City Corp.,US                ,40        ,Financials,       4.79
+NOV            ,National Oilwell Varco  Inc.,US                ,10        ,Energy,      55.41
+NSM            ,National Semiconductor,US                ,45        ,Information Technology,      18.07
+NTAP           ,NetApp  Inc.,US                ,45        ,Information Technology,      23.84
+NYT            ,New York Times Cl. A,US                ,25        ,Consumer Discretionary,      13.96
+NWL            ,Newell Rubbermaid Co.,US                ,25        ,Consumer Discretionary,      20.07
+NEM            ,Newmont Mining Corp. (Hldg. Co.),US                ,15        ,Materials,      37.71
+NWS.A          ,News Corporation,US                ,25        ,Consumer Discretionary,      13.80
+GAS            ,NICOR Inc.,US                ,55        ,Utilities,      47.13
+NKE            ,NIKE Inc.,US                ,25        ,Consumer Discretionary,      59.87
+NI             ,NiSource Inc.,US                ,55        ,Utilities,      16.17
+NE             ,Noble Corporation,US                ,10        ,Energy,      43.04
+NBL            ,Noble Energy  Inc,US                ,10        ,Energy,      59.22
+JWN            ,Nordstrom,US                ,25        ,Consumer Discretionary,      34.97
+NSC            ,Norfolk Southern Corp.,US                ,20        ,Industrials,      65.47
+NTRS           ,Northern Trust Corp.,US                ,40        ,Financials,      83.70
+NOC            ,Northrop Grumman Corp.,US                ,20        ,Industrials,      69.99
+NOVL           ,Novell Inc.,US                ,45        ,Information Technology,       5.79
+NVLS           ,Novellus Systems,US                ,45        ,Information Technology,      21.60
+NUE            ,Nucor Corp.,US                ,15        ,Materials,      44.25
+NVDA           ,NVIDIA Corp.,US                ,45        ,Information Technology,      10.82
+NYX            ,NYSE Euronext,US                ,40        ,Financials,      38.24
+OXY            ,Occidental Petroleum,US                ,10        ,Energy,      69.86
+ODP            ,Office Depot,US                ,25        ,Consumer Discretionary,       7.76
+OMC            ,Omnicom Group,US                ,25        ,Consumer Discretionary,      41.66
+ORCL           ,Oracle Corp.,US                ,45        ,Information Technology,      19.16
+PCAR           ,PACCAR Inc.,US                ,20        ,Industrials,      42.67
+PTV            ,Pactiv Corp.,US                ,15        ,Materials,      26.87
+PLL            ,Pall Corp.,US                ,20        ,Industrials,      37.24
+PH             ,Parker-Hannifin,US                ,20        ,Industrials,      59.85
+PDCO           ,Patterson Cos. Inc.,US                ,35        ,Health Care,      31.60
+PAYX           ,Paychex Inc.,US                ,45        ,Information Technology,      33.10
+BTU            ,Peabody Energy,US                ,10        ,Energy,      49.48
+JCP            ,Penney (J.C.),US                ,25        ,Consumer Discretionary,      41.97
+POM            ,Pepco Holdings  Inc.,US                ,55        ,Utilities,      24.17
+PBG            ,Pepsi Bottling Group,US                ,30        ,Consumer Staples,      32.10
+PEP            ,PepsiCo Inc.,US                ,30        ,Consumer Staples,      71.83
+PKI            ,PerkinElmer,US                ,35        ,Health Care,      26.06
+PFE            ,Pfizer  Inc.,US                ,35        ,Health Care,      18.20
+PCG            ,PG&E Corp.,US                ,55        ,Utilities,      41.45
+PM             ,Philip Morris Intl.,US                ,30        ,Consumer Staples,      54.62
+PNW            ,Pinnacle West Capital,US                ,55        ,Utilities,      35.28
+PBI            ,Pitney-Bowes,US                ,20        ,Industrials,      35.83
+PCL            ,Plum Creek Timber Co.,US                ,40        ,Financials,      48.43
+PNC            ,PNC Financial Services,US                ,40        ,Financials,      70.86
+RL             ,Polo Ralph Lauren Corp.,US                ,25        ,Consumer Discretionary,      73.65
+PPG            ,PPG Industries,US                ,15        ,Materials,      64.88
+PPL            ,PPL Corp.,US                ,55        ,Utilities,      38.21
+PX             ,Praxair  Inc.,US                ,15        ,Materials,      82.98
+PCP            ,Precision Castparts,US                ,20        ,Industrials,      98.76
+PFG            ,Principal Financial Group,US                ,40        ,Financials,      46.13
+PG             ,Procter & Gamble,US                ,30        ,Consumer Staples,      72.39
+PGN            ,Progress Energy  Inc.,US                ,55        ,Utilities,      43.56
+PGR            ,Progressive Corp.,US                ,40        ,Financials,      17.91
+PLD            ,ProLogis,US                ,40        ,Financials,      42.77
+PRU            ,Prudential Financial,US                ,40        ,Financials,      79.78
+PEG            ,Public Serv. Enterprise Inc.,US                ,55        ,Utilities,      36.60
+PSA            ,Public Storage,US                ,40        ,Financials,      86.24
+PHM            ,Pulte Homes  Inc.,US                ,25        ,Consumer Discretionary,      15.50
+QLGC           ,QLogic Corp.,US                ,45        ,Information Technology,      18.38
+QCOM           ,QUALCOMM Inc.,US                ,45        ,Information Technology,      46.73
+DGX            ,Quest Diagnostics,US                ,35        ,Health Care,      54.64
+STR            ,Questar Corp.,US                ,55        ,Utilities,      44.89
+Q              ,Qwest Communications Int,US                ,50        ,Telecommunications Services,       3.73
+RSH            ,RadioShack Corp,US                ,25        ,Consumer Discretionary,      19.36
+RRC            ,Range Resources Corp.,US                ,10        ,Energy,      41.47
+RTN            ,Raytheon Co. (New),US                ,20        ,Industrials,      58.56
+RF             ,Regions Financial Corp.,US                ,40        ,Financials,      11.24
+RAI            ,Reynolds American Inc.,US                ,30        ,Consumer Staples,      51.41
+RHI            ,Robert Half International,US                ,20        ,Industrials,      25.86
+ROK            ,Rockwell Automation  Inc.,US                ,20        ,Industrials,      42.09
+COL            ,Rockwell Collins,US                ,20        ,Industrials,      49.70
+ROH            ,Rohm & Haas,US                ,15        ,Materials,      74.98
+RDC            ,Rowan Cos.,US                ,10        ,Energy,      31.79
+R              ,Ryder System,US                ,20        ,Industrials,      65.17
+SAF            ,SAFECO Corp.,US                ,40        ,Financials,      67.84
+SWY            ,Safeway Inc.,US                ,30        ,Consumer Staples,      26.03
+SNDK           ,SanDisk Corporation,US                ,45        ,Information Technology,      15.68
+SLE            ,Sara Lee Corp.,US                ,30        ,Consumer Staples,      13.69
+SGP            ,Schering-Plough,US                ,35        ,Health Care,      18.58
+SLB            ,Schlumberger Ltd.,US                ,10        ,Energy,      84.61
+SNI            ,Scripps Network Interactive  Inc.,US                ,25        ,Consumer Discretionary,      39.70
+SEE            ,Sealed Air Corp.(New),US                ,15        ,Materials,      24.83
+SHLD           ,Sears Holdings Corporation,US                ,25        ,Consumer Discretionary,      96.41
+SRE            ,Sempra Energy,US                ,55        ,Utilities,      56.94
+SHW            ,Sherwin-Williams,US                ,25        ,Consumer Discretionary,      59.56
+SIAL           ,Sigma-Aldrich,US                ,15        ,Materials,      52.38
+SPG            ,Simon Property Group  Inc,US                ,40        ,Financials,      95.02
+SLM            ,SLM Corporation,US                ,40        ,Financials,      15.39
+SII            ,Smith International,US                ,10        ,Energy,      61.36
+SNA            ,Snap-On Inc.,US                ,25        ,Consumer Discretionary,      57.73
+SO             ,Southern Co.,US                ,55        ,Utilities,      37.71
+LUV            ,Southwest Airlines,US                ,20        ,Industrials,      15.91
+SWN            ,Southwestern Energy,US                ,10        ,Energy,      30.69
+SOV            ,Sovereign Bancorp,US                ,40        ,Financials,       8.41
+SE             ,Spectra Energy Corp.,US                ,10        ,Energy,      24.53
+S              ,Sprint Nextel Corp.,US                ,50        ,Telecommunications Services,       7.27
+STJ            ,St Jude Medical,US                ,35        ,Health Care,      44.51
+SWK            ,Stanley Works,US                ,25        ,Consumer Discretionary,      46.85
+SPLS           ,Staples Inc.,US                ,25        ,Consumer Discretionary,      24.37
+SBUX           ,Starbucks Corp.,US                ,25        ,Consumer Discretionary,      15.06
+HOT            ,Starwood Hotels & Resorts,US                ,25        ,Consumer Discretionary,      38.32
+STT            ,State Street Corp.,US                ,40        ,Financials,      69.60
+SYK            ,Stryker Corp.,US                ,35        ,Health Care,      64.91
+JAVA           ,Sun Microsystems,US                ,45        ,Information Technology,       8.93
+SUN            ,Sunoco  Inc.,US                ,10        ,Energy,      42.41
+STI            ,SunTrust Banks,US                ,40        ,Financials,      45.25
+SVU            ,Supervalu Inc.,US                ,30        ,Consumer Staples,      24.34
+SYMC           ,Symantec Corp.,US                ,45        ,Information Technology,      20.50
+SYY            ,Sysco Corp.,US                ,30        ,Consumer Staples,      34.00
+TROW           ,T. Rowe Price Group,US                ,40        ,Financials,      58.16
+TGT            ,Target Corp.,US                ,25        ,Consumer Discretionary,      56.74
+TE             ,TECO Energy,US                ,55        ,Utilities,      16.30
+TLAB           ,Tellabs  Inc.,US                ,45        ,Information Technology,       4.63
+THC            ,Tenet Healthcare Corp.,US                ,35        ,Health Care,       6.08
+TDC            ,Teradata Corp.,US                ,45        ,Information Technology,      23.72
+TER            ,Teradyne Inc.,US                ,45        ,Information Technology,       8.96
+TEX            ,Terex Corp.,US                ,20        ,Industrials,      35.80
+TSO            ,Tesoro Petroleum Co.,US                ,10        ,Energy,      16.45
+TXN            ,Texas Instruments,US                ,45        ,Information Technology,      21.85
+TXT            ,Textron Inc.,US                ,20        ,Industrials,      37.66
+HSY            ,The Hershey Company,US                ,30        ,Consumer Staples,      38.62
+TRV            ,The Travelers Companies  Inc.,US                ,40        ,Financials,      44.20
+TMO            ,Thermo Fisher Scientific,US                ,35        ,Health Care,      56.56
+TIF            ,Tiffany & Co.,US                ,25        ,Consumer Discretionary,      43.84
+TWX            ,Time Warner Inc.,US                ,25        ,Consumer Discretionary,      14.85
+TIE            ,Titanium Metals Corp,US                ,15        ,Materials,      12.26
+TJX            ,TJX Companies Inc.,US                ,25        ,Consumer Discretionary,      34.53
+TMK            ,Torchmark Corp.,US                ,40        ,Financials,      60.82
+TSS            ,Total System Services,US                ,45        ,Information Technology,      19.05
+RIG            ,Transocean Inc. (New),US                ,10        ,Energy,     116.24
+TEL            ,Tyco Electronics Ltd.,US                ,45        ,Information Technology,      30.17
+TYC            ,Tyco International (New),US                ,20        ,Industrials,      40.18
+TSN            ,Tyson Foods,US                ,30        ,Consumer Staples,      13.10
+USB            ,U.S. Bancorp,US                ,40        ,Financials,      31.85
+UNP            ,Union Pacific,US                ,20        ,Industrials,      73.81
+UIS            ,Unisys Corp.,US                ,45        ,Information Technology,       3.84
+UPS            ,United Parcel Service,US                ,20        ,Industrials,      66.69
+X              ,United States Steel Corp.,US                ,15        ,Materials,     100.05
+UTX            ,United Technologies,US                ,20        ,Industrials,      63.32
+UNH            ,UnitedHealth Group Inc.,US                ,35        ,Health Care,      29.31
+UNM            ,Unum Group,US                ,40        ,Financials,      25.69
+UST            ,UST Inc.,US                ,30        ,Consumer Staples,      68.60
+VFC            ,V.F. Corp.,US                ,25        ,Consumer Discretionary,      83.89
+VLO            ,Valero Energy,US                ,10        ,Energy,      30.90
+VAR            ,Varian Medical Systems,US                ,35        ,Health Care,      62.95
+VRSN           ,Verisign Inc.,US                ,45        ,Information Technology,      26.77
+VZ             ,Verizon Communications,US                ,50        ,Telecommunications Services,      34.72
+VIA.B          ,Viacom Inc. (New),US                ,25        ,Consumer Discretionary,      27.04
+VNO            ,Vornado Realty Trust,US                ,40        ,Financials,     101.35
+VMC            ,Vulcan Materials,US                ,15        ,Materials,      73.14
+WB             ,Wachovia Corp. (New),US                ,40        ,Financials,      15.08
+WMT            ,Wal-Mart Stores,US                ,30        ,Consumer Staples,      62.02
+WAG            ,Walgreen Co.,US                ,30        ,Consumer Staples,      35.75
+DIS            ,Walt Disney Co.,US                ,25        ,Consumer Discretionary,      32.77
+WM             ,Washington Mutual,US                ,40        ,Financials,       2.32
+WPO            ,Washington Post,US                ,25        ,Consumer Discretionary,     598.16
+WMI            ,Waste Management Inc.,US                ,20        ,Industrials,      34.78
+WAT            ,Waters Corporation,US                ,35        ,Health Care,      62.16
+WPI            ,Watson Pharmaceuticals,US                ,35        ,Health Care,      29.46
+WFT            ,Weatherford International Ltd.,US                ,10        ,Energy,      29.66
+WLP            ,WellPoint Inc.,US                ,35        ,Health Care,      49.17
+WFC            ,Wells Fargo,US                ,40        ,Financials,      31.70
+WEN            ,Wendy's International,US                ,25        ,Consumer Discretionary,      22.87
+WU             ,Western Union Co,US                ,45        ,Information Technology,      25.71
+WY             ,Weyerhaeuser Corp.,US                ,15        ,Materials,      55.18
+WHR            ,Whirlpool Corp.,US                ,25        ,Consumer Discretionary,      86.90
+WFMI           ,Whole Foods Market,US                ,30        ,Consumer Staples,      18.15
+WMB            ,Williams Cos.,US                ,10        ,Energy,      26.09
+WIN            ,Windstream Corporation,US                ,50        ,Telecommunications Services,      12.15
+WWY            ,Wrigley (Wm) Jr.,US                ,30        ,Consumer Staples,      79.53
+WYE            ,Wyeth,US                ,35        ,Health Care,      39.88
+WYN            ,Wyndham Worldwide,US                ,25        ,Consumer Discretionary,      19.88
+XEL            ,Xcel Energy Inc,US                ,55        ,Utilities,      20.25
+XRX            ,Xerox Corp.,US                ,45        ,Information Technology,      13.58
+XLNX           ,Xilinx  Inc,US                ,45        ,Information Technology,      23.07
+XL             ,XL Capital,US                ,40        ,Financials,      19.03
+XTO            ,XTO Energy Inc.,US                ,10        ,Energy,      47.18
+YHOO           ,Yahoo Inc.,US                ,45        ,Information Technology,      17.70
+YUM            ,Yum! Brands  Inc,US                ,25        ,Consumer Discretionary,      38.02
+ZMH            ,Zimmer Holdings,US                ,35        ,Health Care,      71.10
+ZION           ,Zions Bancorp,US                ,40        ,Financials,      32.58
+
+

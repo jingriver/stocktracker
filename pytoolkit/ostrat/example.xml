@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<portfolio tradeDate="2008/06/03" horizonDate="2008/09/03">
+	<option type="F">
+		<Contract>ed08z</Contract>
+		<ExpDate>2008/12/15</ExpDate>
+		<RFRate>5.25</RFRate>
+		<FuturePrice>95.205</FuturePrice>
+		<Strike>95.25</Strike>
+		<Direction>P</Direction>
+		<Premium>0.305</Premium>
+		<Notional>1000.0</Notional>
+		<ExerciseType>E</ExerciseType>
+	</option>
+	<scenario name="Scenario 1">
+		<option id="0" alpha="0.0" beta="1.0"/>
+	</scenario>
+	<scenario name="Scenario 2">
+		<option id="0" alpha="3.0" beta="6.0"/>
+	</scenario>
+	<scenario name="Scenario 3">
+		<option id="0" alpha="1.0" beta="2.0"/>
+	</scenario>
+</portfolio>

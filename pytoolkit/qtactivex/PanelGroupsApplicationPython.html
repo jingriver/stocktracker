@@ -1,0 +1,52 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+
+
+<head>
+<title></title>
+<script language="JavaScript" type="text/javascript">
+function flexLoaded()
+{
+	//This is the function called by Flex once Flex is loaded and it has exposed all the methods to be exposed to an external client.
+	
+	var panelURL = "FI_GO_HOT_RUN"
+	var panelHeader = "HOT RUN"
+	var panelProvider = "Fixed Income Research"
+	//Call getPanelData method of Flex which expects an object
+	document.getElementById('PanelGroupsApplicationPython').getPanelData(panelURL,panelHeader,panelProvider);
+}
+	
+function setSymbols(eventTypeString,expressionsString,labelsString)
+{
+//This function is called by Flex once the Flex gets all the sybols to be dispatched.
+	alert("eventType = " + eventTypeString)
+	alert("Expression = " + expressionsString)
+	alert("Label " + labelsString);
+
+
+}
+</script>
+</head>
+
+<body>
+
+  	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+			id="PanelGroupsApplicationPython" width="100%" height="100%"
+			codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+			<param name="movie" value="PanelGroupsApplicationPython.swf" />
+			<param name="quality" value="high" />
+			<param name="bgcolor" value="#869ca7" />
+			<param name="allowScriptAccess" value="sameDomain" />
+			<embed src="PanelGroupsApplicationPython.swf" quality="high" bgcolor="#869ca7"
+				width="100%" height="100%" name="PanelGroupsApplicationPython" align="middle"
+				play="true"
+				loop="false"
+				quality="high"
+				allowScriptAccess="sameDomain"
+				type="application/x-shockwave-flash"
+				pluginspage="http://www.adobe.com/go/getflashplayer">
+			</embed>
+	</object>
+
+</body>
+</html>

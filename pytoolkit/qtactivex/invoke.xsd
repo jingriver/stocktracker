@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="invoke">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="arguments"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required" type="xs:NCName"/>
+      <xs:attribute name="returntype" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="arguments">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="string"/>
+        <xs:element ref="array"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="array">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="property"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="string" type="xs:string"/>
+  <xs:element name="property">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" ref="object"/>
+        <xs:element minOccurs="0" ref="string"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="object">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="property"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
